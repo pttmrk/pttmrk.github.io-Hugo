@@ -1,8 +1,6 @@
-baseurl = "https://jimmysong.io/"
+baseurl = "http://pttmrk.github.io"
 DefaultContentLanguage = "en"
-hasCJKLanguage = true
-languageCode = "zh-cn"
-title = "Jimmy Song"
+title = "Marco Patti" 
 theme = "beautifulhugo"
 metaDataFormat = "yaml"
 pygmentsUseClasses = false
