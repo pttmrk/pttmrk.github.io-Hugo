@@ -1,9 +1,7 @@
 ---
-baseurl: "https://jimmysong.io/"
-DefaultContentLanguage: "zh-cn"
-hasCJKLanguage: true
-languageCode: "zh-cn"
-title: "Jimmy Song" 
+baseurl: "http://pttmrk.github.io"
+DefaultContentLanguage: "en"
+title: "Marco Patti" 
 theme: "beautifulhugo"
 metaDataFormat: "yaml"
 subtitle: "I can help you building Cloud Native confidence"
